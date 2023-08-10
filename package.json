@@ -20,5 +20,12 @@
   "bugs": {
     "url": "https://github.com/wlsf82/cypress-intermediario-v2/issues"
   },
-  "homepage": "https://github.com/wlsf82/cypress-intermediario-v2#readme"
+  "homepage": "https://github.com/wlsf82/cypress-intermediario-v2#readme",
+  "dependencies": {
+    "@faker-js/faker": "^7.6.0",
+    "cypress": "^12.0.2"
+  },
+  "devDependencies": {
+    "cypress-plugin-api": "^2.6.1"
+  }
 }
